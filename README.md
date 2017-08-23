@@ -1,6 +1,6 @@
 # chess-pla
 
-Wireframes: 
+Wireframes: https://github.com/lindacall4home/chess-pla/tree/master/wireframes
 
 Waffle.io: https://waffle.io/lindacall4home/chess-pla
 
