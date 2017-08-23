@@ -1,4 +1,6 @@
-# chess-pla
+# Chess PLA (pairing, ladder & attendance)
+
+Chess PLA is an application for use by school chess clubs
 
 Wireframes: https://github.com/lindacall4home/chess-pla/tree/master/wireframes
 
